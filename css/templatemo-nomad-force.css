@@ -165,6 +165,8 @@ a:hover {
   CUSTOM LINK               
 -----------------------------------------*/
 .custom-links {
+  display: flex;
+  flex-direction: column;
   max-width: 230px;
 }
 
